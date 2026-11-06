@@ -60,3 +60,7 @@ python fishbot.py --calibrate      # уровень звука, ничего н�
 python fishbot.py --background     # рыбалка из консоли, F10 - пауза, F12 - выход
 python fishbot.py --help           # все параметры
 ```
+
+## Лицензия
+
+[MIT](LICENSE)
